@@ -1,13 +1,16 @@
 <?php
-/*
- Plugin Name: Corona Data Shortcodes
- Plugin URI: https://www.hoezo-it.be/coronaplugin
- Description: Use shortcodes that display various corona live data and statistics per country 
- Version: 1.0.1
- Author: Hoe? Zo! IT
- Author URI: https://www.hoezo-it.be
- Text Domain: hoezoit-corona
- License: GPL2
+ /**
+ * Plugin Name:       Corona Data Shortcodes
+ * Plugin URI:        https://www.hoezo-it.be/coronaplugin
+ * Description:       Use shortcodes that display various corona live data and statistics globally or for a specific country 
+ * Version:           1.0.2
+ * Requires at least: 5.2
+ * Requires PHP:      7.2
+ * Author:            Hoe? Zo! IT
+ * Author URI:        https://www.hoezo-it.be
+ * License:           GPL v2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       hoezoit-corona
  */
 
 $plugin_url = WP_PLUGIN_URL . '/hoezoit-corona';
